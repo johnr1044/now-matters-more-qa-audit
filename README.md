@@ -21,7 +21,7 @@ Manual testing checklists
 GitHub (to host this project)
 
  Files
-qa-audit-report.pdf ← (Upload or link your Google Doc bug report)
+qa-audit-report.md
 
 README.md
 
