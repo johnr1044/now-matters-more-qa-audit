@@ -11,7 +11,7 @@ Mobile testing (Phase 2 – coming soon)
 
 Automation with Playwright (Phase 3 – coming soon)
 
-📋 Tools Used
+ Tools Used
 Google Docs (bug report)
 
 Chrome DevTools
@@ -20,7 +20,7 @@ Manual testing checklists
 
 GitHub (to host this project)
 
-📁 Files
+ Files
 qa-audit-report.pdf ← (Upload or link your Google Doc bug report)
 
 README.md
