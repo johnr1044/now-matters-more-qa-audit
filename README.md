@@ -15,8 +15,8 @@ Tested on:
 - Android Pixel 6 Chrome
 
 Findings:
-- ✅ Site is mobile responsive with no major functionality issues.
-- ⚠️ One homepage image is squished/cropped on smaller screens.
+-  Site is mobile responsive with no major functionality issues.
+-  One homepage image is squished/cropped on smaller screens.
 
 Recommendation:
 - Adjust CSS for image responsiveness on smaller breakpoints.
