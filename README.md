@@ -6,8 +6,29 @@ Volunteered to conduct a full QA audit of the Now Matters More Foundation’s pu
 
 Scope
 Desktop testing (Phase 1)
+## Phase 1: Desktop QA Audit
 
-Mobile testing 
+Conducted a comprehensive manual QA audit of the Now Matters More Foundation website on desktop across Chrome and Firefox browsers. Identified key usability issues, functional bugs, and content errors impacting user experience and trust.
+
+###  Summary
+- Tested all major user flows including navigation, contact forms, donation process, and informational content
+- Categorized findings into **bugs**, **UX issues**, and **content problems** for clarity
+- Created actionable recommendations to improve site functionality and credibility
+
+###  Findings
+
+**Bugs**
+- Broken external links (e.g., blank pages on third-party redirect)
+- Multiple 404s from outdated links
+- Buttons with no defined behavior
+
+**UX Issues**
+- Inconsistent navigation layout between pages
+- External links open in the same tab, disrupting flow
+
+**Content Issues**
+- Typos and outdated language on Help and Donate pages
+
 ## Phase 2: Mobile QA Audit
 
 Tested on:
