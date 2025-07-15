@@ -42,9 +42,9 @@ Findings:
 Recommendation:
 - Adjust CSS for image responsiveness on smaller breakpoints.
 
-Automation with Playwright (Phase 3 – coming soon)
+## Phase 3:Automation with Playwright (Phase 3 – coming soon)
 
- Tools Used
+ ## Tools Used
 Google Docs (bug report)
 
 Chrome DevTools
@@ -53,7 +53,7 @@ Manual testing checklists
 
 GitHub (to host this project)
 
- Files
+ ## Files
 qa-audit-report.md
 
 README.md
