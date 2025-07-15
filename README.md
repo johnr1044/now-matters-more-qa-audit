@@ -7,7 +7,19 @@ Volunteered to conduct a full QA audit of the Now Matters More Foundation’s pu
 Scope
 Desktop testing (Phase 1)
 
-Mobile testing (Phase 2 – coming soon)
+Mobile testing 
+## Phase 2: Mobile QA Audit
+
+Tested on:
+- iPhone 13 Safari
+- Android Pixel 6 Chrome
+
+Findings:
+- ✅ Site is mobile responsive with no major functionality issues.
+- ⚠️ One homepage image is squished/cropped on smaller screens.
+
+Recommendation:
+- Adjust CSS for image responsiveness on smaller breakpoints.
 
 Automation with Playwright (Phase 3 – coming soon)
 
