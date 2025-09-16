@@ -1,0 +1,272 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - heading "The N.O.W. Matters More Foundation" [level=1] [ref=e6]:
+        - link "The N.O.W. Matters More Foundation" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "The N.O.W. Matters More Foundation" [ref=e8] [cursor=pointer]
+      - navigation [ref=e11]:
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e14]:
+          - generic [ref=e15] [cursor=pointer]: About Us
+          - generic:
+            - generic:
+              - link "Our Mission":
+                - /url: /what-we-do
+            - generic:
+              - link "Our Voice":
+                - /url: /projects
+            - generic:
+              - link "Our Partners":
+                - /url: /partners
+            - generic:
+              - link "Get Involved":
+                - /url: /get-involved
+            - generic:
+              - link "Contact Us":
+                - /url: /contact
+        - link "Our Team" [ref=e17] [cursor=pointer]:
+          - /url: /our-team
+        - generic [ref=e18]:
+          - generic [ref=e19] [cursor=pointer]: Galleries
+          - generic:
+            - generic:
+              - link "11th Annual Golf Tournament":
+                - /url: /11th-annual-golf-tournament
+            - generic:
+              - link "10th Annual Golf Tournament":
+                - /url: /10th-annual-golf-tournament
+            - generic:
+              - link "6th Annual Golf Tournament":
+                - /url: /6th-annual-golf-tournament
+            - generic:
+              - link "5th Annual Golf Tournament":
+                - /url: /new-gallery
+            - generic:
+              - link "4th Annual Golf Tournament":
+                - /url: /4th-annual-golf-tournament
+            - generic:
+              - link "3rd Annual Golf Tournament":
+                - /url: /3rd-annual-golf-tournament
+            - generic:
+              - link "2nd Annual Golf Tournament":
+                - /url: /2nd-annual-golf-tournament
+            - generic:
+              - link "1st Annual Golf Tournament":
+                - /url: /golf-tournament-2014
+            - generic:
+              - 'link "1st Annual Recovery Walk: NSB"':
+                - /url: /1st-annual-recovery-walk
+            - generic:
+              - link "Central Recovery Symposium":
+                - /url: /central-recovery-symposium
+            - generic:
+              - link "Orange County Recovery Walk":
+                - /url: /orange-county-recovery-walk
+            - generic:
+              - link "UCF Tailgate Experience":
+                - /url: /the-couch-live-on-tour
+            - generic:
+              - link "2019 Entertainment Industry Mental Health Conference":
+                - /url: /full-sail-mental-health-conference
+        - link "Events" [ref=e21] [cursor=pointer]:
+          - /url: /events-1
+        - link "APPLICATION" [ref=e23] [cursor=pointer]:
+          - /url: /apply
+        - link "Resources" [ref=e25] [cursor=pointer]:
+          - /url: /resources
+        - link "Annual Golf Tourney" [ref=e27] [cursor=pointer]:
+          - /url: /golf
+        - link "Take Action" [ref=e29] [cursor=pointer]:
+          - /url: /take-action
+  - main [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - figure [ref=e35]:
+            - img "outpatient.jpg" [ref=e36]
+          - paragraph [ref=e38]:
+            - strong [ref=e39]: Outpatient
+        - generic [ref=e42]:
+          - generic [ref=e47]:
+            - heading "Outpatient Services (Includes Intensive Outpatient Programs)" [level=3] [ref=e48]
+            - paragraph [ref=e49]: Consider one of these programs if you have already graduated a higher level of care, do not meet criteria for medical detox, have early signs of an Addiction Use Disorder, or want a professional opinion on what level of care is best for you.
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - figure [ref=e55]
+              - generic [ref=e60]:
+                - heading "Retreat Premier Addiction Treatment Centers" [level=3] [ref=e61]
+                - paragraph [ref=e62]:
+                  - text: 4020 Lake Worth Rd.
+                  - text: Palm Beach, FL 33461
+                  - text: "Contact: John Chuter"
+                  - link "717-758-4659" [ref=e63] [cursor=pointer]:
+                    - /url: tel:717-758-4659
+              - link "Learn More" [ref=e67] [cursor=pointer]:
+                - /url: http://www.retreataddictioncenters.com
+            - generic [ref=e68]:
+              - figure [ref=e72]
+              - generic [ref=e77]:
+                - heading "solace counseling" [level=3] [ref=e78]
+                - paragraph [ref=e79]:
+                  - text: 23 N. Summerlin Ave.
+                  - text: Orlando, FL
+                  - text: "Contact: Aaron Moore, LHMC"
+                  - link "407-574-8056" [ref=e80] [cursor=pointer]:
+                    - /url: tel:407-574-8056
+              - link "Learn More" [ref=e84] [cursor=pointer]:
+                - /url: http://www.solacecounseling.org
+            - generic [ref=e85]:
+              - figure [ref=e89]
+              - generic [ref=e94]:
+                - heading "Boardprep recovery center" [level=3] [ref=e95]
+                - paragraph [ref=e96]:
+                  - text: 2522 W. Kennedy Blvd.
+                  - text: Tampa, FL 33609
+                  - text: "Contact: Liz Harden, LMHC, CAP"
+                  - link "813-600-7929" [ref=e97] [cursor=pointer]:
+                    - /url: https://tel:813-600-7929
+              - link "Learn More" [ref=e101] [cursor=pointer]:
+                - /url: http://www.boardpreprecovery.com
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - figure [ref=e111]
+          - generic [ref=e116]:
+            - heading "journeypure" [level=3] [ref=e117]
+            - paragraph [ref=e118]:
+              - text: Multiple National Locations
+              - text: "Contact: Graham Barrett"
+              - link "561-252-6741" [ref=e119] [cursor=pointer]:
+                - /url: tel:561-252-6741
+          - link "Learn More" [ref=e123] [cursor=pointer]:
+            - /url: http://www.journeypure.com
+        - generic [ref=e124]:
+          - figure [ref=e128]
+          - generic [ref=e133]:
+            - heading "gilstrap & associates" [level=3] [ref=e134]
+            - paragraph [ref=e135]:
+              - text: 1920 Woodward Street
+              - text: Orlando, FL 32803
+              - text: "Contact: Hart Meyrich"
+              - link "407-522-9919" [ref=e136] [cursor=pointer]:
+                - /url: tel:407-522-9919
+          - link "Learn More" [ref=e140] [cursor=pointer]:
+            - /url: http://www.orlando-counseling.com
+      - generic [ref=e145]:
+        - generic [ref=e146]:
+          - figure [ref=e150]:
+            - img "stepping stone.jpg" [ref=e153]
+          - generic [ref=e156]:
+            - heading "a stepping stone to success" [level=3] [ref=e157]
+            - paragraph [ref=e158]:
+              - text: 536 Clemson Dr.
+              - text: Altamonte Springs, FL 32714
+              - text: "Contact: Joanne Stone, BA, CAP, ICADC"
+              - link "407-718-8850" [ref=e159] [cursor=pointer]:
+                - /url: tel:407-718-8850
+          - link "Learn More" [ref=e163] [cursor=pointer]:
+            - /url: http://www.asteptosoberliving.com
+        - generic [ref=e164]:
+          - figure [ref=e168]:
+            - img "healing house.jpg" [ref=e171]
+          - generic [ref=e174]:
+            - heading "the healing house" [level=3] [ref=e175]
+            - paragraph [ref=e176]:
+              - text: 1199 N. Orange Ave
+              - text: Orlando, FL 32804
+              - text: "Contact: JP Furey"
+              - link "407-701-4500" [ref=e177] [cursor=pointer]:
+                - /url: tel:407-701-4500
+          - link "Learn More" [ref=e181] [cursor=pointer]:
+            - /url: https://hhbrainhealth.com
+      - generic [ref=e186]:
+        - generic [ref=e187]:
+          - figure [ref=e191]
+          - generic [ref=e196]:
+            - heading "university behavioral center" [level=3] [ref=e197]
+            - paragraph [ref=e198]:
+              - text: 2500 Discovery Dr.
+              - text: Orlando, FL 32826
+              - text: "Contact: Windy McCarty"
+              - link "407-461-0768" [ref=e199] [cursor=pointer]:
+                - /url: tel:407-461-0768
+          - link "Learn More" [ref=e203] [cursor=pointer]:
+            - /url: http://www.universitybehavioral.com
+        - generic [ref=e204]:
+          - figure [ref=e208]
+          - generic [ref=e213]:
+            - heading "Tele med clinix" [level=3] [ref=e214]
+            - paragraph [ref=e215]:
+              - text: "570 Lexington Green Ln. Sanford, FL 32771 Contact: Redita or Brenda"
+              - link "321-209-4040" [ref=e216] [cursor=pointer]:
+                - /url: tel:3212094040
+          - link "Learn More" [ref=e220] [cursor=pointer]:
+            - /url: https://telemedclinix.com
+  - navigation [ref=e229]:
+    - link "thedopedoctor@gmail.com" [ref=e230] [cursor=pointer]:
+      - /url: mailto:thedopedoctor@gmail.com
+      - img [ref=e232] [cursor=pointer]
+    - link "Luis Delgado" [ref=e235] [cursor=pointer]:
+      - /url: http://www.facebook.com/nowmattersmore
+      - img [ref=e237] [cursor=pointer]
+    - link "N.O.W. Matters More Foundation" [ref=e240] [cursor=pointer]:
+      - /url: http://instagram.com/nowmattersmore
+      - img [ref=e242] [cursor=pointer]
+  - contentinfo [ref=e245]:
+    - generic [ref=e246]:
+      - navigation [ref=e248]:
+        - generic [ref=e249]:
+          - generic [ref=e250] [cursor=pointer]: Our Team
+          - generic:
+            - generic:
+              - link "Lui":
+                - /url: /lui
+                - generic: Lui
+            - generic:
+              - link "Jeremy":
+                - /url: /jeremy
+                - generic: Jeremy
+            - generic:
+              - link "Jack":
+                - /url: /jack
+                - generic: Jack
+            - generic:
+              - link "Mike":
+                - /url: /mike-1
+                - generic: Mike
+            - generic:
+              - link "Sam":
+                - /url: /sam
+                - generic: Sam
+            - generic:
+              - link "Jojo":
+                - /url: /jojo
+                - generic: Jojo
+            - generic:
+              - link "Dalia":
+                - /url: /dalia
+                - generic: Dalia
+        - link "The NOW Network" [ref=e252] [cursor=pointer]:
+          - /url: /new-page-9
+          - generic [ref=e253] [cursor=pointer]: The NOW Network
+        - link "Medical Detox" [ref=e255] [cursor=pointer]:
+          - /url: /medical-detox
+          - generic [ref=e256] [cursor=pointer]: Medical Detox
+        - link "Outpatient" [ref=e258] [cursor=pointer]:
+          - /url: /outpatient
+          - generic [ref=e259] [cursor=pointer]: Outpatient
+        - link "Residential" [ref=e261] [cursor=pointer]:
+          - /url: /residential
+          - generic [ref=e262] [cursor=pointer]: Residential
+        - link "Sober Living" [ref=e264] [cursor=pointer]:
+          - /url: /sober-living
+          - generic [ref=e265] [cursor=pointer]: Sober Living
+      - paragraph [ref=e272]:
+        - text: Powered by
+        - link "Squarespace" [ref=e273] [cursor=pointer]:
+          - /url: http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&source=footer&campaign=4fd1028ee4b02be53c65dfb3
+```
