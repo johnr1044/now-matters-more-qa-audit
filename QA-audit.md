@@ -42,6 +42,10 @@ Phase 3:Automation with Playwright (Phase 3 – coming soon)
 Tools Used
 Google Docs (bug report)
 
+Phase 3: Automation
+
+information in README.md
+
 Chrome DevTools
 
 Manual testing checklists
