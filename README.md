@@ -6,7 +6,7 @@ The automation portion focuses on validating critical links across the site’s 
 
 The **manual QA portion** is documented separately in [`qa-audit.md`](./qa-audit.md), where detailed test cases and observations are stored.  
 
----
+
 
 ### Technologies and Techniques Used  
 
@@ -18,7 +18,7 @@ The **manual QA portion** is documented separately in [`qa-audit.md`](./qa-audit
 - **Assertions**: Clean, descriptive validations to ensure test outcomes are reliable.  
 - **Trace Viewer & Retries**: Configured Playwright to capture execution traces and retry failing tests for better debugging and stability.  
 
----
+
 
 ### Before Running the Tests  
 
@@ -52,3 +52,4 @@ npx playwright test
 - Ensured users have access to accurate, up-to-date help resources.
 - Helped the organization improve external partnerships and credibility.
 - Combined manual + automated QA to maximize test coverage and efficiency.
+
