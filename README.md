@@ -4,7 +4,7 @@ Now Matters More QA Audit
 This project combines **manual QA auditing** and **automated testing** for the Now Matters More website.  
 The automation portion focuses on validating critical links across the site’s **Resources** section to ensure accuracy for users seeking help. During this process, over 15 broken or expired links were discovered, allowing the organization to update connections and improve user trust.  
 
-The **manual QA portion** is documented separately in [`qa-audit.md`](./qa-audit.md), where detailed test cases and observations are stored.  
+The **manual QA portion** is documented separately in [`QA-audit.md`](./QA-audit.md), where detailed test cases and observations are stored.  
 
 
 
@@ -52,4 +52,5 @@ npx playwright test
 - Ensured users have access to accurate, up-to-date help resources.
 - Helped the organization improve external partnerships and credibility.
 - Combined manual + automated QA to maximize test coverage and efficiency.
+
 
